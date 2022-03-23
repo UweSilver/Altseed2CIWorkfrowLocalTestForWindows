@@ -1,0 +1,2 @@
+# Altseed2CIWorkfrowLocalTestForWindows
+Altseed2のCIを手元で試すためのスクリプトです。
