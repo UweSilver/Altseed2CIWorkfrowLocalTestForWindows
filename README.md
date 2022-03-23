@@ -1,2 +1,6 @@
 # Altseed2CIWorkfrowLocalTestForWindows
 Altseed2のCIを手元で試すためのスクリプトです。
+
+Altseed2-csherpのディレクトリ内にコピーして使ってください
+
+エラーが出ているかどうかは目でチェックしてください、、
